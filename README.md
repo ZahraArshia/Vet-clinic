@@ -35,5 +35,5 @@ Give a ⭐️ if you like this project!
 
 ## License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/ZahraArshia/Vet-clinic/blob/Create-animals-table/LICENSE) licensed.
 
