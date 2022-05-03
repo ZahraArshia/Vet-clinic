@@ -12,3 +12,6 @@ CREATE TABLE IF NOT EXISTS public.animals(
 	neutered BOOLEAN,
     	weight_kg DECIMAL
 );
+
+ALTER TABLE animals
+ADD COLUMN species VARCHAR(200);
