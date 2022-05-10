@@ -6,6 +6,9 @@ In this projects, a relational database is used to create the data structure for
 - clinic employees
 - visits
 
+![drawSQL-export-2022-05-10_17_51](https://user-images.githubusercontent.com/78906545/167638712-eaa60b7c-37af-4f52-a5e8-8fdf450a0fbf.png)
+
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
